@@ -1,0 +1,17 @@
+name: ATSC345_2023
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - xarray
+  - pandas
+  - cartopy
+  - arm_pyart
+  - satpy
+  - metpy
+  - boto
+  - cfgrib
+  - sharppy
+  - astropy
+  - joblib
+  - jupyterlab
